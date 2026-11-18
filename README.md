@@ -16,6 +16,9 @@
 - Logistic Regression ve Decision Tree algoritmalarının uygulanması.
 - Modellerin performanslarının karşılaştırılması.
 - Tahmin sonuçlarının değerlendirilmesi ve raporlanması.
+## Veri Seti
+- https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes-10-01-2013-to-05-05-/9t4d-g238/about_data
+- https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes-10-01-2013-to-05-05-2/wter-evkm/about_data
 ## Kapsam Dışı
 - Sahiplendirme kararının kesin olarak verilmesi veya garanti edilmesi.
 - Veri setinde bulunmayan özellikler üzerinden tahmin yapılması.
